@@ -1,6 +1,4 @@
-# Weather-Data-Analysis
-Weather Data Analysis project that explore temprature,humidity and other weather patterns using data analysis and virtualization techniques.
-# Weather Data Analysis
+
 
 ## Project Overview
 This project analyzes weather data to identify patterns in temperature, humidity, wind speed, and precipitation. The goal is to understand climate trends and present insights using data analysis and visualization.
